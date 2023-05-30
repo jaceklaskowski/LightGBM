@@ -16,6 +16,10 @@ Run the following command in this folder:
 lightgbm config=train.conf
 ```
 
+> **Note**
+>
+> Use `train_linear.conf` for [fit piecewise linear gradient boosting tree](https://lightgbm.readthedocs.io/en/latest/Parameters.html#linear_tree).
+
 Prediction
 ----------
 
